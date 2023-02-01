@@ -11,4 +11,14 @@ I'm an undergraduate student major in Computer Science.
 ![](https://img.shields.io/badge/archlinux-1793d1?style=flat&labelColor=333333&logoColor=1793d1&logo=archlinux)
 
 <!--START_SECTION:waka-->
+
+```text
+Rust             4 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.66 %
+C                2 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   27.36 %
+TOML             1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+Bash             48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+ObjectiveC       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Markdown         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+```
+
 <!--END_SECTION:waka-->
