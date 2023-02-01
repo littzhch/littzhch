@@ -10,6 +10,7 @@ I'm an undergraduate student major in Computer Science.
 ![](https://img.shields.io/badge/OpenGL-5487b2?style=flat&labelColor=ffffff&logoColor=5487b2&logo=opengl)
 ![](https://img.shields.io/badge/archlinux-1793d1?style=flat&labelColor=333333&logoColor=1793d1&logo=archlinux)
 
+## Weekly Coding Statistics
 <!--START_SECTION:waka-->
 
 ```text
