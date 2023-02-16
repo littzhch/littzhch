@@ -15,8 +15,9 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```text
-Bash    58 mins         ██████████████████████░░░   87.49 %
-Other   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
+Bash         58 mins         ███████████▓░░░░░░░░░░░░░   46.29 %
+Rust         58 mins         ███████████▓░░░░░░░░░░░░░   46.24 %
+Other        8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
