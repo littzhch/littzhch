@@ -14,12 +14,12 @@ I'm an undergraduate student major in Computer Science.
 ## Weekly Coding Statistics
 <!--START_SECTION:waka-->
 
-```text
-SVG          11 mins         ████████████▓░░░░░░░░░░░░   50.44 %
-Rust         7 mins          ████████▒░░░░░░░░░░░░░░░░   32.94 %
-C            3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-ObjectiveC   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+```txt
+Rust         25 mins         ███████████████▓░░░░░░░░░   62.36 %
+SVG          11 mins         ███████░░░░░░░░░░░░░░░░░░   27.83 %
+C            3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+ObjectiveC   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TOML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
