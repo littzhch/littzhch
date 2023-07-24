@@ -15,11 +15,7 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-C++          23 mins         ████████████▓░░░░░░░░░░░░   50.95 %
-Git Config   17 mins         █████████▒░░░░░░░░░░░░░░░   37.61 %
-C            5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
