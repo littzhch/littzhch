@@ -15,8 +15,11 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-C++     6 mins          ████████████████████████▓   98.56 %
-CMake   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Bash         43 mins         ██████████████████░░░░░░░   72.34 %
+INI          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+C++          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
