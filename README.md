@@ -15,11 +15,9 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         43 mins         ████████████████████▒░░░░   80.86 %
-INI          8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python           43 mins         ███████████████████████▓░   94.84 %
+Text             2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
