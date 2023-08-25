@@ -15,9 +15,8 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   44 mins         ████████████▓░░░░░░░░░░░░   50.19 %
-Python   43 mins         ████████████░░░░░░░░░░░░░   48.44 %
-Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Docker   44 mins         ████████████████████████▒   97.34 %
+Text     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
