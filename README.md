@@ -15,11 +15,11 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-TSQL           3 hrs 39 mins   █████████▓░░░░░░░░░░░░░░░   39.17 %
-Python         2 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.56 %
-ActionScript   2 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
-HTML           38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Ezhil          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TSQL           3 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   39.66 %
+Python         2 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+ActionScript   2 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+HTML           31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Ezhil          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 ```
 
 <!--END_SECTION:waka-->
