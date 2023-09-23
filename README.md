@@ -15,9 +15,8 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 41 mins   ███████████████████░░░░░░   75.74 %
-TSQL     1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python   3 hrs 25 mins   █████████████████████████   99.50 %
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
