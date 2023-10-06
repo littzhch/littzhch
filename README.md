@@ -15,11 +15,11 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Other       21 mins         █████████░░░░░░░░░░░░░░░░   36.45 %
-Python      18 mins         ████████░░░░░░░░░░░░░░░░░   32.44 %
-Markdown    12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-Rust        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other       21 mins         █████████████▒░░░░░░░░░░░   52.84 %
+Markdown    12 mins         ████████░░░░░░░░░░░░░░░░░   31.96 %
+Rust        4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Python      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
