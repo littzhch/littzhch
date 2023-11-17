@@ -15,11 +15,11 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-C                 1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-JavaScript        36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-Other             33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Markdown          29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-ObjectiveC        22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Assembly          3 hrs 11 mins   ███████████░░░░░░░░░░░░░░   44.45 %
+C                 1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Other             48 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Markdown          39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+JavaScript        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
 ```
 
 <!--END_SECTION:waka-->
