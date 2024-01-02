@@ -15,11 +15,11 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-C             16 hrs 50 mins  ████████████████████░░░░░   79.51 %
-Makefile      3 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
-Text          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-Other         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Objective-C   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+C             11 hrs 13 mins  ███████████████████▓░░░░░   79.05 %
+Makefile      2 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Text          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Objective-C   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Git Config    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
