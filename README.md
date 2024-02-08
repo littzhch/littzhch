@@ -15,11 +15,11 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             5 hrs 16 mins   ██████████████████▓░░░░░░   75.31 %
-Bash             1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-Text             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Rust             7 hrs 36 mins   ████████████████████░░░░░   80.44 %
+Bash             1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Text             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TOML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
