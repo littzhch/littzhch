@@ -15,7 +15,8 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   9 mins          █████████████████████████   100.00 %
+Other   9 mins          ███████████████▓░░░░░░░░░   62.70 %
+NuSMV   5 mins          █████████▒░░░░░░░░░░░░░░░   37.30 %
 ```
 
 <!--END_SECTION:waka-->
