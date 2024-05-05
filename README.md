@@ -15,8 +15,7 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-SQL     3 hrs 8 mins    ██████████████████████▒░░   88.75 %
-Other   23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+Other   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
