@@ -15,11 +15,11 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              4 hrs 26 mins   ███████████████████████░░   91.77 %
-Protocol Buffer   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-TOML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-C                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Rust              5 hrs           ███████████████████████░░   92.63 %
+Protocol Buffer   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+TOML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+C                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
