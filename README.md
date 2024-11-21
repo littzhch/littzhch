@@ -15,9 +15,9 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Typst        4 hrs 29 mins   ███████████████████████▓░   94.47 %
-Git Config   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Typst        3 hrs 20 mins   ███████████████▒░░░░░░░░░   61.29 %
+C            2 hrs 6 mins    █████████▓░░░░░░░░░░░░░░░   38.52 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
