@@ -15,9 +15,9 @@ I'm an undergraduate student major in Computer Science.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       6 hrs 16 mins   ███████████████████████▓░   94.86 %
-TOML       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Rust       7 hrs 44 mins   █████████████████████▒░░░   85.54 %
+Other      45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+TOML       32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
